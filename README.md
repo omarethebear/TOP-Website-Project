@@ -1,0 +1,1 @@
+This project is an attempt to build a beuatiful website from scratch. This will test my basic knowledge of HTML, CSS, and Flexbox concepts.
